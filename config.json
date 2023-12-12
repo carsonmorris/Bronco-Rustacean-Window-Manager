@@ -1,0 +1,68 @@
+[
+    {
+        "keycode": 27,
+        "modkey": 8,
+        "action": "Run",
+        "args": "rofi -show run"
+    },
+    {
+        "keycode": 24,
+        "modkey": 5,
+        "action": "Quit",
+        "args": ""
+    },
+    {
+        "keycode": 44,
+        "modkey": 8,
+        "action": "CycleFocus",
+        "args": "+"
+    },
+    {
+        "keycode": 45,
+        "modkey": 8,
+        "action": "CycleFocus",
+        "args": "-"
+    },
+    {
+        "keycode": 43,
+        "modkey": 8,
+        "action": "ChangeSize",
+        "args": "+"
+    },
+    {
+        "keycode": 46,
+        "modkey": 8,
+        "action": "ChangeSize",
+        "args": "-"
+    },
+    {
+        "keycode": 36,
+        "modkey": 8,
+        "action": "PromoteWindow",
+        "args": ""
+    },
+    {
+        "keycode": 53,
+        "modkey": 8,
+        "action": "Close",
+        "args": ""
+    },
+    {
+        "keycode": 65,
+        "modkey": 8,
+        "action": "NextScreen",
+        "args": ""
+    },
+    {
+        "keycode": 32,
+        "modkey": 8,
+        "action": "MoveWindow",
+        "args": ""
+    },
+    {
+        "keycode": 58,
+        "modkey": 8,
+        "action": "ToggleFull",
+        "args": ""
+    }
+]
