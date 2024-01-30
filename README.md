@@ -20,10 +20,10 @@ __        ___           _                 __  __
 
 ## Overview
 - The Bronco-Rustacean Window Manager (BRWM) is a minimal tiling window manager for X11 written in Rust for the CS354 Programming Languages final project
-- It contains basic funcitonality for rendering and manipulating windows using keyboard shortcuts
+- It contains basic functionality for rendering and manipulating windows using keyboard shortcuts
 - Features include:
     - Rendering Windows
-    - Opening / Closing WIndows
+    - Opening / Closing Windows
     - Resizing windows
     - Re-organizing windows
     - Shortcuts for running applications
@@ -45,7 +45,7 @@ __        ___           _                 __  __
 ```bash
 $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-2. Install build dependancies
+2. Install build dependencies
 ```bash
 $ sudo apt install build-essential libx11-dev libxinerama-dev
 ```
@@ -70,7 +70,7 @@ $ startx
 
 ## Using BRWM
 - Running the install script copied the default config.json to ~/.config/brwm/config.json if it was not already there.
-- All keybindings can be modified in that file, however default keybindings will be listed here.
+- All keybindings can be modified in that file, however, default keybindings will be listed here.
 
 | Keybinding       | Action                      |
 |------------------|-----------------------------|
