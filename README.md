@@ -19,7 +19,7 @@ __        ___           _                 __  __
 
 
 ## Overview
-- The Bronco-Rustacean Window Manager (BRWM) is a minimal tiling window manager for X11 written in Rust for the CS354 Programming Languages final project
+- The Bronco-Rustacean Window Manager (BRWM) is a minimal tiling window manager for X11 written in Rust for the CS354 Programming Languages final project at Boise State University.
 - It contains basic functionality for rendering and manipulating windows using keyboard shortcuts
 - Features include:
     - Rendering Windows
